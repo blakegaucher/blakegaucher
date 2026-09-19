@@ -2,9 +2,9 @@
 
 ### Human-centered AI • AI provenance • Experimental research • Creative technology
 
-I'm an independent researcher and creator developing **Ancient Immortal Art**, an early-stage initiative exploring how AI systems can become more transparent, accountable, useful, and meaningfully human-centered.
+I'm an independent researcher and creator developing **Ancient Immortal Art**, an early-stage initiative exploring how AI systems can become more transparent, accountable, inspectable, and meaningfully human-centered.
 
-My work currently spans AI provenance, agent activity records, experimental validation, human–AI collaboration, recognition research, and creative technology.
+My current work is split into separate evidence lanes so technical results, competition work, exploratory recognition research, and commercialization claims are not treated as interchangeable.
 
 ---
 
@@ -12,25 +12,37 @@ My work currently spans AI provenance, agent activity records, experimental vali
 
 ### 🧾 AI Activity Receipt
 
-**Human-centered, provenance-aware records for consequential AI-agent actions.**
+**Human-centered, provenance-aware records for consequential AI-agent activity.**
 
-The AI Activity Receipt explores a simple question:
+The project asks a practical question:
 
-> When an AI system performs meaningful work, what should humans be able to verify afterward?
+> When an AI system performs meaningful work, what should a person be able to verify afterward?
 
-The project investigates structured records for actions, evidence, provenance, decisions, and outputs so AI-assisted work can be inspected rather than simply trusted.
+The public repository currently includes a canonical Activity Record → Activity Receipt derivation path, schema and invariant validation, provenance / interoperability research, synthetic workflow tests, reproducibility tooling, and development-only human-evaluation instrumentation.
 
-**Status:** Early-stage research and development
+**Current evidence boundary:** the public work is primarily technical and synthetic. It does not yet establish human productivity gains, audit-accuracy improvement, production security, standards conformance, regulatory compliance, or product-market fit.
+
+**Status:** Public technical prototype • pre-commercial research and validation
 
 [View AI Activity Receipt](https://github.com/blakegaucher/ai-activity-receipt)
 
 ---
 
+### 🧩 ARC reasoning / solver research
+
+A separate technical-competition lane focused on controlled reasoning experiments, frozen evaluation boundaries, exact execution, negative-result preservation, and reproducible solver development.
+
+This work remains separate from the AI Activity Receipt: solver benchmark results are not used as customer or product validation for the Receipt, and Activity Receipt research is not presented as ARC performance.
+
+**Status:** Controlled competition research
+
+---
+
 ### 🌌 Julia Dream Nexus
 
-An experimental human–AI research and creative-systems environment exploring continuity, structured evidence, recognition, provenance, testing, and long-running human–AI collaboration.
+A private experimental human–AI research and creative-systems environment exploring continuity, structured evidence, recognition, provenance, testing, and long-running human–AI collaboration.
 
-The project deliberately separates:
+The workspace deliberately separates:
 
 - observed evidence
 - interpretation
@@ -40,8 +52,6 @@ The project deliberately separates:
 
 **Status:** Experimental research and development
 
-[View Julia Dream Nexus](https://github.com/blakegaucher/Julia-Dream-Nexus)
-
 ---
 
 ## 🧪 Research Approach
@@ -50,7 +60,8 @@ I am particularly interested in methods that make experimental AI work easier to
 
 - provenance-rich records
 - frozen test designs
-- blind and multi-rater evaluation
+- append-only evidence history
+- exact hashes and version boundaries
 - contradiction detection
 - negative and null results
 - human-centered AI governance
@@ -63,7 +74,7 @@ I am particularly interested in methods that make experimental AI work easier to
 
 **Ancient Immortal Art** is an early-stage creative and technology initiative connecting AI research, provenance, experimental systems, educational concepts, and original creative work.
 
-The goal is not to present unfinished ideas as finished products, but to document their development clearly enough that progress can be evaluated over time.
+The goal is not to present unfinished ideas as finished products, but to document development clearly enough that progress, evidence, limitations, and later claims can be evaluated separately.
 
 ---
 
@@ -71,10 +82,10 @@ The goal is not to present unfinished ideas as finished products, but to documen
 
 I'm interested in connecting with people working on:
 
-`AI provenance` · `AI agents` · `human-centered AI` · `AI accountability` · `experimental AI research` · `human-AI collaboration` · `creative technology`
+`AI provenance` · `AI agents` · `human-centered AI` · `AI accountability` · `reasoning systems` · `experimental AI research` · `human-AI collaboration` · `creative technology`
 
 ---
 
 ### Build. Test. Document. Improve.
 
-Better AI requires more than powerful outputs — it requires evidence of how those outputs came to be.
+Better AI requires more than powerful outputs — it requires evidence that lets people reconstruct what happened and understand the limits of the claim.
