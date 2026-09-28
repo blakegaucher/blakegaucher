@@ -12,6 +12,8 @@ My current work is split into separate evidence lanes so technical results, comp
 
 ### 🧾 AI Activity Receipt
 
+[![Receipt validation](https://github.com/blakegaucher/ai-activity-receipt/actions/workflows/validate-receipts.yml/badge.svg)](https://github.com/blakegaucher/ai-activity-receipt/actions/workflows/validate-receipts.yml) [![CodeQL](https://github.com/blakegaucher/ai-activity-receipt/actions/workflows/codeql.yml/badge.svg)](https://github.com/blakegaucher/ai-activity-receipt/actions/workflows/codeql.yml)
+
 **Human-centered, provenance-aware records for consequential AI-agent activity.**
 
 The project asks a practical question:
