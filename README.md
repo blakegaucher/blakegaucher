@@ -81,6 +81,7 @@ I am particularly interested in methods that make experimental AI work easier to
 - human-centered AI governance
 - reproducible experiments
 - clear separation between evidence and speculation
+- private publication/security governance that separates public claims from private source material
 
 ---
 
