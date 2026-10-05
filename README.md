@@ -30,6 +30,18 @@ The public repository currently includes a canonical Activity Record → Activit
 
 ---
 
+### 🤝 Prospective evaluators / customer discovery
+
+AI Activity Receipt is now preparing structured customer discovery with small professional teams that use AI in document-heavy or evidence-heavy workflows where human verification still matters.
+
+The current commercial hypothesis is deliberately narrow: **one workflow, one bounded evaluation, one fixed scope**. Pricing and demand are not yet validated.
+
+A public evaluator pack explains the proposed inputs, outputs, privacy boundaries, and evidence standard before any outreach or pilot is treated as validation:
+
+[Read the Prospective Evaluator Pack](https://github.com/blakegaucher/ai-activity-receipt/blob/main/docs/PROSPECTIVE-EVALUATOR-PACK.md)
+
+Useful feedback includes negative results, “not a problem for us,” and refusal to price. Those outcomes are preserved rather than converted into promotional claims.
+
 ### 🧩 ARC reasoning / solver research
 
 A separate technical-competition lane focused on controlled reasoning experiments, frozen evaluation boundaries, exact execution, negative-result preservation, and reproducible solver development.
