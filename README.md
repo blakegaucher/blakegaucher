@@ -6,6 +6,10 @@ I'm an independent researcher and creator developing **Ancient Immortal Art**, a
 
 My current work is split into separate evidence lanes so technical results, competition work, exploratory recognition research, and commercialization claims are not treated as interchangeable.
 
+**Start here:** [AI Activity Receipt](https://github.com/blakegaucher/ai-activity-receipt) · [Reproduction handoff](https://github.com/blakegaucher/ai-activity-receipt/blob/main/docs/EXTERNAL-REPRODUCTION-HANDOFF.md) · [Evaluator pack](https://github.com/blakegaucher/ai-activity-receipt/blob/main/docs/PROSPECTIVE-EVALUATOR-PACK.md) · [Security policy](https://github.com/blakegaucher/ai-activity-receipt/blob/main/SECURITY.md)
+
+**Development note — October 26, 2026:** My public work remains a technical prototype. Current priorities are reproducible verification, source-backed interoperability research, and bounded evaluation. Device acceptance, human-study outcomes, pricing, and customer demand each need their own evidence.
+
 ---
 
 ## 🔎 Current Work
